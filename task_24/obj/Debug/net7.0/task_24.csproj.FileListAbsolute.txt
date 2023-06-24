@@ -1,0 +1,15 @@
+D:\C#\Seminar_4\task_24\obj\Debug\net7.0\task_24.csproj.AssemblyReference.cache
+D:\C#\Seminar_4\task_24\obj\Debug\net7.0\task_24.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Seminar_4\task_24\obj\Debug\net7.0\task_24.AssemblyInfoInputs.cache
+D:\C#\Seminar_4\task_24\obj\Debug\net7.0\task_24.AssemblyInfo.cs
+D:\C#\Seminar_4\task_24\obj\Debug\net7.0\task_24.csproj.CoreCompileInputs.cache
+D:\C#\Seminar_4\task_24\bin\Debug\net7.0\task_24.exe
+D:\C#\Seminar_4\task_24\bin\Debug\net7.0\task_24.deps.json
+D:\C#\Seminar_4\task_24\bin\Debug\net7.0\task_24.runtimeconfig.json
+D:\C#\Seminar_4\task_24\bin\Debug\net7.0\task_24.dll
+D:\C#\Seminar_4\task_24\bin\Debug\net7.0\task_24.pdb
+D:\C#\Seminar_4\task_24\obj\Debug\net7.0\task_24.dll
+D:\C#\Seminar_4\task_24\obj\Debug\net7.0\refint\task_24.dll
+D:\C#\Seminar_4\task_24\obj\Debug\net7.0\task_24.pdb
+D:\C#\Seminar_4\task_24\obj\Debug\net7.0\task_24.genruntimeconfig.cache
+D:\C#\Seminar_4\task_24\obj\Debug\net7.0\ref\task_24.dll

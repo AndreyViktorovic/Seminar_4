@@ -1,0 +1,15 @@
+D:\C#\Seminar_4\task_30\bin\Debug\net7.0\task_30.exe
+D:\C#\Seminar_4\task_30\bin\Debug\net7.0\task_30.deps.json
+D:\C#\Seminar_4\task_30\bin\Debug\net7.0\task_30.runtimeconfig.json
+D:\C#\Seminar_4\task_30\bin\Debug\net7.0\task_30.dll
+D:\C#\Seminar_4\task_30\bin\Debug\net7.0\task_30.pdb
+D:\C#\Seminar_4\task_30\obj\Debug\net7.0\task_30.csproj.AssemblyReference.cache
+D:\C#\Seminar_4\task_30\obj\Debug\net7.0\task_30.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Seminar_4\task_30\obj\Debug\net7.0\task_30.AssemblyInfoInputs.cache
+D:\C#\Seminar_4\task_30\obj\Debug\net7.0\task_30.AssemblyInfo.cs
+D:\C#\Seminar_4\task_30\obj\Debug\net7.0\task_30.csproj.CoreCompileInputs.cache
+D:\C#\Seminar_4\task_30\obj\Debug\net7.0\task_30.dll
+D:\C#\Seminar_4\task_30\obj\Debug\net7.0\refint\task_30.dll
+D:\C#\Seminar_4\task_30\obj\Debug\net7.0\task_30.pdb
+D:\C#\Seminar_4\task_30\obj\Debug\net7.0\task_30.genruntimeconfig.cache
+D:\C#\Seminar_4\task_30\obj\Debug\net7.0\ref\task_30.dll
